@@ -1,0 +1,505 @@
+{
+    "prefix": [
+      {
+        "id": 0, 
+        "ip_prefix": "3.5.140.0/22", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 1, 
+        "ip_prefix": "52.219.60.0/23", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 2, 
+        "ip_prefix": "43.249.45.0/24", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 3, 
+        "ip_prefix": "52.144.227.192/26", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 4, 
+        "ip_prefix": "52.94.6.0/24", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 5, 
+        "ip_prefix": "15.230.74.128/26", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 6, 
+        "ip_prefix": "15.230.74.192/26", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 7, 
+        "ip_prefix": "15.177.76.0/24", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 8, 
+        "ip_prefix": "52.219.148.0/23", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 9, 
+        "ip_prefix": "52.95.192.0/20", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 10, 
+        "ip_prefix": "43.200.0.0/14", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 11, 
+        "ip_prefix": "3.36.0.0/14", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 12, 
+        "ip_prefix": "104.255.59.119/32", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 13, 
+        "ip_prefix": "54.239.120.0/21", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 14, 
+        "ip_prefix": "54.180.0.0/15", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 15, 
+        "ip_prefix": "52.95.111.0/24", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 16, 
+        "ip_prefix": "15.230.81.0/24", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 17, 
+        "ip_prefix": "52.79.0.0/16", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 18, 
+        "ip_prefix": "52.93.137.0/24", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 19, 
+        "ip_prefix": "54.239.40.152/29", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 20, 
+        "ip_prefix": "15.248.36.0/22", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 21, 
+        "ip_prefix": "52.93.127.198/32", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 22, 
+        "ip_prefix": "13.34.58.128/27", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 23, 
+        "ip_prefix": "99.78.188.0/22", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 24, 
+        "ip_prefix": "104.255.59.118/32", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 25, 
+        "ip_prefix": "99.78.184.0/22", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 26, 
+        "ip_prefix": "52.93.248.0/24", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 27, 
+        "ip_prefix": "13.125.0.0/16", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 28, 
+        "ip_prefix": "150.222.116.0/24", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 29, 
+        "ip_prefix": "13.34.58.160/27", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 30, 
+        "ip_prefix": "15.193.9.0/24", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 31, 
+        "ip_prefix": "52.94.198.64/28", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 32, 
+        "ip_prefix": "52.94.248.176/28", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 33, 
+        "ip_prefix": "52.144.228.192/26", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 34, 
+        "ip_prefix": "13.124.0.0/16", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 35, 
+        "ip_prefix": "99.77.141.0/24", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 36, 
+        "ip_prefix": "3.5.144.0/23", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 37, 
+        "ip_prefix": "13.209.0.0/16", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 38, 
+        "ip_prefix": "52.78.0.0/16", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 39, 
+        "ip_prefix": "99.150.24.0/21", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 40, 
+        "ip_prefix": "15.230.60.0/24", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 41, 
+        "ip_prefix": "52.219.56.0/22", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 42, 
+        "ip_prefix": "52.93.127.199/32", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 43, 
+        "ip_prefix": "52.93.247.0/25", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 44, 
+        "ip_prefix": "15.230.196.0/24", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 45, 
+        "ip_prefix": "52.219.144.0/22", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 46, 
+        "ip_prefix": "52.95.252.0/24", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 47, 
+        "ip_prefix": "15.164.0.0/15", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 48, 
+        "ip_prefix": "54.239.0.192/28", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 49, 
+        "ip_prefix": "54.239.116.0/22", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 50, 
+        "ip_prefix": "3.34.0.0/15", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 51, 
+        "ip_prefix": "99.82.168.0/24", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 52, 
+        "ip_prefix": "52.144.227.64/26", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 53, 
+        "ip_prefix": "15.230.75.0/26", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 54, 
+        "ip_prefix": "99.151.144.0/21", 
+        "service": "AMAZON"
+      }, 
+      {
+        "id": 55, 
+        "ip_prefix": "3.5.140.0/22", 
+        "service": "S3"
+      }, 
+      {
+        "id": 56, 
+        "ip_prefix": "52.219.60.0/23", 
+        "service": "S3"
+      }, 
+      {
+        "id": 57, 
+        "ip_prefix": "52.219.148.0/23", 
+        "service": "S3"
+      }, 
+      {
+        "id": 58, 
+        "ip_prefix": "3.5.144.0/23", 
+        "service": "S3"
+      }, 
+      {
+        "id": 59, 
+        "ip_prefix": "52.219.56.0/22", 
+        "service": "S3"
+      }, 
+      {
+        "id": 60, 
+        "ip_prefix": "52.219.144.0/22", 
+        "service": "S3"
+      }, 
+      {
+        "id": 61, 
+        "ip_prefix": "52.94.6.0/24", 
+        "service": "DYNAMODB"
+      }, 
+      {
+        "id": 62, 
+        "ip_prefix": "3.5.140.0/22", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 63, 
+        "ip_prefix": "15.177.76.0/24", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 64, 
+        "ip_prefix": "43.200.0.0/14", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 65, 
+        "ip_prefix": "3.36.0.0/14", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 66, 
+        "ip_prefix": "54.180.0.0/15", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 67, 
+        "ip_prefix": "52.79.0.0/16", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 68, 
+        "ip_prefix": "13.125.0.0/16", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 69, 
+        "ip_prefix": "15.193.9.0/24", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 70, 
+        "ip_prefix": "52.94.248.176/28", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 71, 
+        "ip_prefix": "13.124.0.0/16", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 72, 
+        "ip_prefix": "99.77.141.0/24", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 73, 
+        "ip_prefix": "3.5.144.0/23", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 74, 
+        "ip_prefix": "13.209.0.0/16", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 75, 
+        "ip_prefix": "52.78.0.0/16", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 76, 
+        "ip_prefix": "99.150.24.0/21", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 77, 
+        "ip_prefix": "52.95.252.0/24", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 78, 
+        "ip_prefix": "15.164.0.0/15", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 79, 
+        "ip_prefix": "3.34.0.0/15", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 80, 
+        "ip_prefix": "99.151.144.0/21", 
+        "service": "EC2"
+      }, 
+      {
+        "id": 81, 
+        "ip_prefix": "99.82.168.0/24", 
+        "service": "GLOBALACCELERATOR"
+      }, 
+      {
+        "id": 82, 
+        "ip_prefix": "15.177.76.0/24", 
+        "service": "ROUTE53_HEALTHCHECKS_PUBLISHING"
+      }, 
+      {
+        "id": 83, 
+        "ip_prefix": "13.124.145.104/29", 
+        "service": "ROUTE53_RESOLVER"
+      }, 
+      {
+        "id": 84, 
+        "ip_prefix": "13.124.145.112/29", 
+        "service": "ROUTE53_RESOLVER"
+      }, 
+      {
+        "id": 85, 
+        "ip_prefix": "13.124.145.120/29", 
+        "service": "ROUTE53_RESOLVER"
+      }, 
+      {
+        "id": 86, 
+        "ip_prefix": "13.124.145.16/29", 
+        "service": "CODEBUILD"
+      }, 
+      {
+        "id": 87, 
+        "ip_prefix": "13.124.145.24/29", 
+        "service": "ROUTE53_RESOLVER"
+      }, 
+      {
+        "id": 88, 
+        "ip_prefix": "13.124.145.64/29", 
+        "service": "ROUTE53_RESOLVER"
+      }, 
+      {
+        "id": 89, 
+        "ip_prefix": "13.124.145.72/29", 
+        "service": "ROUTE53_RESOLVER"
+      }, 
+      {
+        "id": 90, 
+        "ip_prefix": "13.124.145.80/29", 
+        "service": "ROUTE53_RESOLVER"
+      }, 
+      {
+        "id": 91, 
+        "ip_prefix": "13.124.145.88/29", 
+        "service": "ROUTE53_RESOLVER"
+      }, 
+      {
+        "id": 92, 
+        "ip_prefix": "13.124.145.96/29", 
+        "service": "ROUTE53_RESOLVER"
+      }, 
+      {
+        "id": 93, 
+        "ip_prefix": "13.124.199.0/24", 
+        "service": "CLOUDFRONT"
+      }, 
+      {
+        "id": 94, 
+        "ip_prefix": "13.124.199.0/24", 
+        "service": "CLOUDFRONT_ORIGIN_FACING"
+      }, 
+      {
+        "id": 95, 
+        "ip_prefix": "13.124.247.0/24", 
+        "service": "WORKSPACES_GATEWAYS"
+      }, 
+      {
+        "id": 96, 
+        "ip_prefix": "13.209.1.0/29", 
+        "service": "ROUTE53_RESOLVER"
+      }, 
+      {
+        "id": 97, 
+        "ip_prefix": "13.209.1.56/29", 
+        "service": "EC2_INSTANCE_CONNECT"
+      }, 
+      {
+        "id": 98, 
+        "ip_prefix": "13.209.1.8/29", 
+        "service": "ROUTE53_RESOLVER"
+      }, 
+      {
+        "id": 99, 
+        "ip_prefix": "13.209.1.96/27", 
+        "service": "ROUTE53_RESOLVER"
+      }
+    ], 
+    "region": "ap-northeast-2"
+}
